@@ -1,2 +1,4 @@
 #Hello! by Liam A
-10/2
+c=10
+d=2
+c/d
